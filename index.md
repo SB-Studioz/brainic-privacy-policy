@@ -1,33 +1,63 @@
-Privacy Policy for Brainic: Mind Games
+# Privacy Policy — Brainic
 
-Last updated: 26th June 2026
+**Last updated: 1 July 2026**
 
-This Privacy Policy explains how the "Brainic: Mind Games" mobile application ("the App", "we", "us") handles your information. By using the App, you agree to this policy.
+Brainic ("we", "our", "the app") is developed by SB Studios. This policy explains
+what data the app collects, how it is used, and your choices. By using Brainic
+you agree to this policy.
 
-Information We Collect
+> Contact: **team.sb.studioz@gmail.com**
 
-We do not collect, store, transmit, or share any personal information. The App does not require you to create an account, sign in, or provide any personal details. We do not use analytics, advertising, or tracking services.
+## Playing as a Guest
+You can use Brainic without signing in. As a guest:
+- We create an **anonymous account** (a random ID) so you can play online via
+  room codes. No name or email is collected.
+- Your game progress, XP and coins are stored **only on your device**.
 
-Data Stored on Your Device
+## Signing in with Google
+If you choose to sign in with Google, we collect and store:
+- **Name** and **email address** from your Google account
+- Your **profile photo URL** (if available) and a chosen avatar color
+- A **user ID** and a shareable **friend code**
 
-The App saves game-related data — such as your game progress, scores, best results, and settings (for example, theme choice) — locally on your device only. This information never leaves your device, is not sent to us or any third party, and is removed if you uninstall the App.
+This is used to create your profile, friends list, leaderboard rank, and to sync
+your progress across devices. Signing in is **optional**.
 
-Permissions
+## Data we store
+When signed in, the following is stored in our backend (Google Firebase):
+- **Profile**: name, avatar, gender (optional), friend code, XP, coins, level, game stats
+- **Friends**: your friends list and friend requests
+- **Online play**: live game matches, room codes, and online/offline presence
+- **Leaderboard**: your name, level, XP and wins
 
-The App does not request access to your contacts, location, camera, microphone, photos, or other sensitive device features.
+## How we use your data
+- To provide app functionality (games, online multiplayer, friends, leaderboard)
+- For account management (your profile and progress)
 
-Children's Privacy
+We do **not** sell your data. We do **not** use it for advertising, and the app
+does **not** use an advertising ID.
 
-The App is suitable for all ages and does not knowingly collect any personal information from children or anyone else.
+## Third-party services
+- **Google Firebase** (Authentication, Cloud Firestore, Realtime Database) — stores
+  the data above on our behalf. See Google's Privacy Policy: https://policies.google.com/privacy
+- **Google Sign-In** — used only if you choose to sign in.
 
-Third-Party Services
+Data is transmitted over encrypted (HTTPS) connections.
 
-The App currently does not use any third-party services that collect data. (If we add services such as advertising or analytics in the future, we will update this policy and the Google Play data-safety information accordingly before those features are released.)
+## Data retention and deletion
+Your data is kept while your account exists. To **delete your account and data**,
+contact us at **team.sb.studioz@gmail.com** and we will remove it. Guest
+data lives only on your device and is removed when you uninstall the app or reset
+game data in Settings.
 
-Changes to This Policy
+## Children's privacy
+Brainic is a general-audience games app and is not directed at children under 13.
+We do not knowingly collect data from children under 13.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with a new "Last updated" date.
+## Changes to this policy
+We may update this policy; the "Last updated" date above will change accordingly.
 
-Contact
+## Contact
+Questions about this policy: **team.sb.studioz@gmail.com**
 
-If you have any questions about this Privacy Policy, contact us at: team.sb.studioz@gmail.com
+
